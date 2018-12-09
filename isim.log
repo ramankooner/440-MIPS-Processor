@@ -1,0 +1,68 @@
+ISim log file
+Running: C:\Users\Sandeep Kooner\Desktop\440 Labs\Final Project\Enhancements\FinalProjectEnhancements\MIPS_CU_TB_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_CU_TB_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+BREAK INSTRUCTION FETCHED   860.0ns
+ R E G I S T E R ' S    A F T E R    B R E A K
+ 
+T =   862.0ns  Reg Addr = 0 - Contents = 00000000 || Reg Addr = 10 - Contents = xxxxxxxx
+T =   863.0ns  Reg Addr = 1 - Contents = ffffff8a || Reg Addr = 11 - Contents = xxxxxxxx
+T =   864.0ns  Reg Addr = 2 - Contents = 0000008a || Reg Addr = 12 - Contents = xxxxxxxx
+T =   865.0ns  Reg Addr = 3 - Contents = xxxxxxxx || Reg Addr = 13 - Contents = xxxxxxxx
+T =   866.0ns  Reg Addr = 4 - Contents = xxxxxxxx || Reg Addr = 14 - Contents = xxxxxxxx
+T =   867.0ns  Reg Addr = 5 - Contents = fafafbfb || Reg Addr = 15 - Contents = xxxxxxxx
+T =   868.0ns  Reg Addr = 6 - Contents = xxxxxxxx || Reg Addr = 16 - Contents = xxxxxxxx
+T =   869.0ns  Reg Addr = 7 - Contents = 00000001 || Reg Addr = 17 - Contents = xxxxxxxx
+T =   870.0ns  Reg Addr = 8 - Contents = 00000000 || Reg Addr = 18 - Contents = xxxxxxxx
+T =   871.0ns  Reg Addr = 9 - Contents = 0f0f0f0f || Reg Addr = 19 - Contents = xxxxxxxx
+T =   872.0ns  Reg Addr = a - Contents = f0f0f0f0 || Reg Addr = 1a - Contents = xxxxxxxx
+T =   873.0ns  Reg Addr = b - Contents = ffffffff || Reg Addr = 1b - Contents = xxxxxxxx
+T =   874.0ns  Reg Addr = c - Contents = 00000001 || Reg Addr = 1c - Contents = xxxxxxxx
+T =   875.0ns  Reg Addr = d - Contents = 0f0f0f0f || Reg Addr = 1d - Contents = 000003fc
+T =   876.0ns  Reg Addr = e - Contents = xxxxxxxx || Reg Addr = 1e - Contents = xxxxxxxx
+T =   877.0ns  Reg Addr = f - Contents = 100100c0 || Reg Addr = 1f - Contents = xxxxxxxx
+ 
+ DATA MEMORY 
+ 
+time=  877.0ns M[0C0]=xxxxxxxx
+time=  877.0ns M[0C4]=xxxxxxxx
+time=  877.0ns M[0C8]=xxxxxxxx
+time=  877.0ns M[0CC]=xxxxxxxx
+time=  877.0ns M[0D0]=xxxxxxxx
+time=  877.0ns M[0D4]=xxxxxxxx
+time=  877.0ns M[0D8]=xxxxxxxx
+time=  877.0ns M[0DC]=xxxxxxxx
+time=  877.0ns M[0E0]=xxxxxxxx
+time=  877.0ns M[0E4]=xxxxxxxx
+time=  877.0ns M[0E8]=xxxxxxxx
+time=  877.0ns M[0EC]=xxxxxxxx
+time=  877.0ns M[0F0]=xxxxxxxx
+time=  877.0ns M[0F4]=xxxxxxxx
+time=  877.0ns M[0F8]=xxxxxxxx
+time=  877.0ns M[0FC]=xxxxxxxx
+ 
+ INPUT/OUTPUT MEMORY 
+ 
+time=  877.0ns M[0C0]=xxxxxxxx
+time=  877.0ns M[0C4]=xxxxxxxx
+time=  877.0ns M[0C8]=xxxxxxxx
+time=  877.0ns M[0CC]=xxxxxxxx
+time=  877.0ns M[0D0]=xxxxxxxx
+time=  877.0ns M[0D4]=xxxxxxxx
+time=  877.0ns M[0D8]=xxxxxxxx
+time=  877.0ns M[0DC]=xxxxxxxx
+time=  877.0ns M[0E0]=xxxxxxxx
+time=  877.0ns M[0E4]=xxxxxxxx
+time=  877.0ns M[0E8]=xxxxxxxx
+time=  877.0ns M[0EC]=xxxxxxxx
+time=  877.0ns M[0F0]=xxxxxxxx
+time=  877.0ns M[0F4]=xxxxxxxx
+time=  877.0ns M[0F8]=xxxxxxxx
+time=  877.0ns M[0FC]=xxxxxxxx
+Stopped at time : 877 ns : File "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MCU.v" Line 1622

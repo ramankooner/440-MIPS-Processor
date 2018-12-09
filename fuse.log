@@ -1,0 +1,45 @@
+Running: C:\Users\Public\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_CU_TB_isim_beh.exe -prj C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_CU_TB_beh.prj work.MIPS_CU_TB work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MPY_32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/DIV_32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/barrel_shifter.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/Register.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/regfile32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/PC.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/memory1kx32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/alu_32.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MCU.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/Integer_Datapath.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/Instruction_Unit.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/inputOutput.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/CPU.v" into library work
+Analyzing Verilog file "C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_CPU_TB.v" into library work
+Analyzing Verilog file "C:/Users/Public/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module MCU
+Compiling module PC
+Compiling module memory1kx32
+Compiling module Register
+Compiling module Instruction_Unit
+Compiling module regfile32
+Compiling module barrel_shifter
+Compiling module MIPS_32
+Compiling module MPY_32
+Compiling module DIV_32
+Compiling module alu_32
+Compiling module Integer_Datapath
+Compiling module CPU
+Compiling module inputOutput
+Compiling module MIPS_CU_TB
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 9 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable C:/Users/Sandeep Kooner/Desktop/440 Labs/Final Project/Enhancements/FinalProjectEnhancements/MIPS_CU_TB_isim_beh.exe
+Fuse Memory Usage: 33252 KB
+Fuse CPU Usage: 827 ms
